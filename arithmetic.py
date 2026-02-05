@@ -1,0 +1,7 @@
+a=int(input("enter a no"))
+b=int(input("enter another no"))
+print("sum of two no is ",a+b)
+print("differencd of two no is ",a-b)
+print("product of two no is ",a*b)
+print("product of two no is ",a/b)
+print("product of two no is ",a%b)
